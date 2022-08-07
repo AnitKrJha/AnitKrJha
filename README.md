@@ -1,13 +1,14 @@
-## Hey 👋, I'm [Anit Jha!](https://keshavcodex.github.io) 
+![Header](./github-header-image.png)
+## Hey 👋, I'm [Anit Jha!]("#") 
 
 <a href="https://www.linkedin.com/in/anit-jha-94704222b/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1659851850~hmac=344222a04de1eb92b8e625d53a77b866"  />
 </a>
 <!--<a href="https://twitter.com/keshavcodex">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>-->
 <a href="mailto:anitjha31@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />
 </a>
 <!--<a href="http://dev.to/keshavcodex">
   <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" />
@@ -22,7 +23,7 @@
 
  ```c++
  
- Brand doesn't mean lost of followers. It means gaining CREDIBILITY
+ Brand doesn't mean lost of followers. It means gaining CREDIBILITY✌️
  
  ```
 
