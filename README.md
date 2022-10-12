@@ -21,11 +21,15 @@
 👨‍💻 I enjoy exploring new things. </br>
 💻 Trying to build my brand in the Tech Community.
 
+
+
  ```c++
  
  Brand doesn't mean lost of followers. It means gaining CREDIBILITY✌️
  
  ```
+ 
+ [![@anitjha's Holopin board](https://holopin.me/anitjha)](https://holopin.io/@anitjha)
 
 ![Anit's github stats](https://github-readme-stats.vercel.app/api?username=AnitkrJha&show_icons=true)
 <a href="https://wakatime.com/@AnitKrJha" target="_blank">
