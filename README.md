@@ -37,6 +37,7 @@
 </a>
 <br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnitkrJha.AnitKrJha)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnitKrJha" alt="AnkitKrJha" /></p>
 <!--
 **AnitKrJha/AnitKrJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
