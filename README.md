@@ -1,3 +1,6 @@
+
+ [![@anitjha's Holopin board](https://holopin.me/anitjha)](https://holopin.io/@anitjha)
+
 ![Header](./github-header-image.png)
 ## Hey 👋, I'm [Anit Jha!]("#") 
 
@@ -29,7 +32,7 @@
  
  ```
  
- [![@anitjha's Holopin board](https://holopin.me/anitjha)](https://holopin.io/@anitjha)
+
 
 ![Anit's github stats](https://github-readme-stats.vercel.app/api?username=AnitkrJha&show_icons=true)
 <a href="https://wakatime.com/@AnitKrJha" target="_blank">
